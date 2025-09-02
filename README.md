@@ -6,7 +6,8 @@
 ##  About Me
 -  I’m **Rohit Sharma**, a **Data Analyst** who thrives on uncovering insights from data.
 -  Always eager to **learn new tools** and **tackle complex problems** with creative solutions.
-
+-  **Tell stories with data** — I turn raw numbers into strategic insights.
+-  **Adaptable learner** — I continuously master new tools to stay ahead in analytics.
 ---
 ##  Skills & Tools
 | Area            | Tools / Technologies               |
@@ -26,7 +27,7 @@
 | Platform        | Link                        |
 |----------------|-----------------------------|
 | LinkedIn       | [[LinkedIn Profile](https://www.linkedin.com/in/rohit-sharma-61056737a/)]     |
-| Email          | [rohitsharmamtr11@gmail.com]  |
+| Email          | [[G-Mail](rohitsharmamtr11@gmail.com)]  |
 
 ---
 ##  Fun Fact
