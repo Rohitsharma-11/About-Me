@@ -34,10 +34,8 @@
 
 ---
 
-##  Icons I Use
-Below are some icons I’ve used to highlight my work:
 
-![Data Analysis Icons]([https://your-image-url-here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.proserveit.com%2Fblog%2Fintroduction-to-data-analysis&psig=AOvVaw2_SfzTVDJW7hGKExjPYDCA&ust=1756912473184000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDzt5Ovuo8DFQAAAAAdAAAAABAE))
+([https://your-image-url-here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.proserveit.com%2Fblog%2Fintroduction-to-data-analysis&psig=AOvVaw2_SfzTVDJW7hGKExjPYDCA&ust=1756912473184000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDzt5Ovuo8DFQAAAAAdAAAAABAE))](https://files.codingninjas.in/article_images/data-analytics-0-1709144761.webp)
 
 ---
 
