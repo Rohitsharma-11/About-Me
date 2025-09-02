@@ -27,7 +27,7 @@
 | Platform        | Link                        |
 |----------------|-----------------------------|
 | LinkedIn       | [[LinkedIn Profile](https://www.linkedin.com/in/rohit-sharma-61056737a/)]     |
-| Email          | [[G-Mail](rohitsharmamtr11@gmail.com)]  |
+| Email          | [G-Mail](rohitsharmamtr11@gmail.com)  |
 
 ---
 ##  Fun Fact
