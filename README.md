@@ -25,7 +25,7 @@
 ##  Connect with Me
 | Platform        | Link                        |
 |----------------|-----------------------------|
-| LinkedIn       | [[Your LinkedIn Profile](https://www.linkedin.com/in/rohit-sharma-61056737a/)]     |
+| LinkedIn       | [[LinkedIn Profile](https://www.linkedin.com/in/rohit-sharma-61056737a/)]     |
 | Email          | [rohitsharmamtr11@gmail.com]  |
 
 ---
