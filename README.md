@@ -32,11 +32,6 @@
 ##  Fun Fact
 > "I see every dataset as a puzzle—each row and column is a clue waiting to be unlocked."
 
----
-
-
-![Data Analytics Chart](Data_Analysis.webp)
-
 
 ---
 
