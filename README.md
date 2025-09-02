@@ -35,7 +35,7 @@
 ---
 
 
-![Data Analytics Chart](https://files.codingninjas.in/article_images/data-analytics-0-1709144761.webp)
+![Data Analytics Chart](Data_Analysis.webp)
 
 
 ---
