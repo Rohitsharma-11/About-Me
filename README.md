@@ -1,6 +1,6 @@
 #  Hi there, I'm Rohit Sharma! 👋
 
-### A passionate Data Analyst learning new skills and solving challenges.
+### Data Analyst skilled in SQL, Python, Power BI, and Excel—transforming complex datasets into actionable insights. 
 
 ---
 ##  About Me
