@@ -46,7 +46,7 @@ Here are the technical and soft skills I bring as a Data Analyst:
 
 If you want to chat about data, projects, or opportunities:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rohit-sharma-61056737a/)  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rohit-sharma-61056737a/)  
 - Email: **rohitsharmamtr11@gmail.com**  
 
 ---
