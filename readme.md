@@ -1,8 +1,3 @@
-<!-- Header image -->
-<p align="center">
-  <img src="YOUR_HEADER_IMAGE_URL" alt="Header Banner" width="800"/>
-</p>
-
 # Hello 👋 I’m Rohit Sharma
 
 Data Analyst passionate about turning complex data into clear, actionable insights.
@@ -11,7 +6,7 @@ Data Analyst passionate about turning complex data into clear, actionable insigh
 
 ## 🎯 What Drives Me
 
-- Solving real-world problems using data: optimization, forecasting, pattern-finding.  
+- Solving real-world problems using data: optimization, pattern-finding.  
 - Visual storytelling: making data understandable, not just accurate.  
 - Continuous learning: exploring new techniques, tools, and best practices in analytics.  
 - Collaboration with stakeholders: translating technical findings into business value.
@@ -36,7 +31,7 @@ Here are the technical and soft skills I bring as a Data Analyst:
 
 ## 🧪Analytics Projects
 
-[my GitHub](https://github.com/Rohitsharma-11/Rohitsharma-11)
+[my GitHub](https://github.com/Rohitsharma-11?tab=repositories)
 
 ---
 
@@ -59,9 +54,9 @@ If you want to chat about data, projects, or opportunities:
 
 ## ⚡ What I’m Up To
 
-- Currently exploring **time series forecasting** & **automated ML pipelines**  
-- Learning more about **data engineering basics** (ETL, Data Warehousing)  
-- Working on improving domain knowledge in *finance / healthcare / [your domain]*  
+- Currently exploring **ML and DL** & **automated ML pipelines**  
+- Learning more about **Advanced Data Analysis Technique** 
+- Working on improving domain knowledge.  
 
 ---
 
