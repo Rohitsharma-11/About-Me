@@ -14,6 +14,27 @@ Data Analyst passionate about turning complex data into clear, actionable insigh
 ---
 
 ## 🔧 Core Skills & Tools
+<!-- Python -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<!-- Pandas -->
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+<!-- Matplotlib -->
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+
+<!-- Seaborn -->
+![Seaborn](https://img.shields.io/badge/Seaborn-4c8cbf?style=for-the-badge&logoColor=white)
+
+<!-- SQL -->
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<!-- Power BI -->
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<!-- Scikit-learn -->
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 Here are the technical and soft skills I bring as a Data Analyst:
 
