@@ -40,7 +40,8 @@ Here are the technical and soft skills I bring as a Data Analyst:
 
 ## 📈 GitHub Profile & Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitsharma-11&show_icons=true&theme=radical)![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitsharma-11&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitsharma-11&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitsharma-11&layout=compact)
+
 
 
 
